@@ -13,7 +13,7 @@ export default function helloWorld() {
   }, []);
   return (
     <>
-      <h1>Hello world!</h1>
+      <h1>Hello world! I'm doing the new edits (2023-04-03)</h1>
       <h2>Data: {data?.text}</h2>
     </>
   );
